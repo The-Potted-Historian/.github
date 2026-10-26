@@ -30,8 +30,18 @@ It is the only engineering environment where our databases require regular schem
 * **<a href="https://github.com/thepottedhistorian" target="_blank" rel="noopener noreferrer">Personal Profile (@thepottedhistorian)</a>** — Main developer profile housing additional webministry, automation, and general software repositories.
 
 ---
+### 📜 License & Attribution
+
+- **Code & Scripts:** Distributed under the <a href="https://opensource.org/licenses/MIT" target="_blank" rel="noopener noreferrer">MIT License</a>.
+- **Research, Text & Media:** Written content, historical monographs, and original documentation in this repository are licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank" rel="noopener noreferrer">CC BY-NC-ND 4.0</a> (Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International).
+- **Attribution & Usage:** You are free to share and redistribute this material for non-commercial purposes, provided full attribution is given to **The Potted Historian** (`thepottedhistorian.com`). Content may not be altered, remixed, or adapted for distribution.
+
+ --- 
 
 <p align="center">
   🌐 <a href="https://www.thepottedhistorian.com/" target="_blank" rel="noopener noreferrer"><b>thepottedhistorian.com</b></a> • 
   📜 <a href="https://github.com/The-Potted-Historian/satyrion-chronicles" target="_blank" rel="noopener noreferrer"><b>Satyrion Chronicles</b></a>
 </p>
+
+
+---
