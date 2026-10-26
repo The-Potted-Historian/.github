@@ -8,6 +8,23 @@ It is the only engineering environment where our databases require regular schem
 
 ---
 
+### 🛠 Organization Stack & Technologies
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=flat-square&logo=google&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+![Jekyll](https://img.shields.io/badge/Jekyll-CC0000?style=flat-square&logo=jekyll&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=flat-square&logo=github&logoColor=white)
+![License: MIT](https://img.shields.io/badge/Code-MIT-blue?style=flat-square)
+![License: CC BY--NC--ND 4.0](https://img.shields.io/badge/Research-CC%20BY--NC--ND%204.0-lightgrey?style=flat-square)
+
+
+---
+
 ### 🌿 Primary Research & Monographs
 
 * **<a href="https://github.com/The-Potted-Historian/satyrion-chronicles" target="_blank" rel="noopener noreferrer">The Satyrion Chronicles</a>** — Ongoing historical monograph, nomenclature analysis, and archival research covering pre-17th-century orchid history.
@@ -45,3 +62,7 @@ It is the only engineering environment where our databases require regular schem
 
 
 ---
+
+<p align="center">
+  <sub>© 2026 Rebecca Short / The Potted Historian. All rights reserved for proprietary brand assets and live web platforms.</sub>
+</p>
